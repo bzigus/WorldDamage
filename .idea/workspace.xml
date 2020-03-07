@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="WorldDamage:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6783f9bd-bf88-4e6b-9d1a-f1e198b44227" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YFqV9XDGQFhQmUJPcrLBqRaJGE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="worlddamage" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Debug Spigot" type="Remote">
+      <module name="WorldDamage" />
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <option name="AUTO_RESTART" value="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="5005" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6783f9bd-bf88-4e6b-9d1a-f1e198b44227" name="Default Changelist" comment="" />
+      <created>1582548710068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582548710068</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="80" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582897950393">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="80" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1582897950393" />
+    <state x="184" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.819@0.23.1440.819" timestamp="1582558902812" />
+    <state x="533" y="134" key="#com.intellij.ide.util.MemberChooser" timestamp="1583242728101">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="134" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1583242728101" />
+    <state x="533" y="145" key="#com.intellij.ide.util.MemberChooser/0.23.1440.819@0.23.1440.819" timestamp="1582549518604" />
+    <state x="458" y="226" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582561735848">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="458" y="226" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.819@0.23.1440.819" timestamp="1582561735848" />
+    <state x="479" y="328" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1583245925252">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="479" y="328" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1440.900@0.0.1440.900" timestamp="1583245925252" />
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom" timestamp="1582898112396">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582898112396" />
+    <state width="1398" height="303" key="GridCell.Tab.0.center" timestamp="1582898112392">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582898112392" />
+    <state width="1398" height="303" key="GridCell.Tab.0.left" timestamp="1582898112388">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582898112388" />
+    <state width="1398" height="303" key="GridCell.Tab.0.right" timestamp="1582898112394">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582898112394" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1582898112403">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582898112403" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1582898112400">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1582898112400" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1582898112398">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1582898112398" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1582898112401">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1582898112401" />
+    <state x="208" y="0" width="1024" height="819" key="SettingsEditor" timestamp="1582913035559">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="0" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1582913035559" />
+    <state x="208" y="23" width="1024" height="819" key="SettingsEditor/0.23.1440.819@0.23.1440.819" timestamp="1582561775790" />
+    <state x="376" y="268" key="com.intellij.ide.util.TipDialog" timestamp="1583623007703">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="376" y="268" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1583623007703" />
+    <state x="376" y="267" key="com.intellij.ide.util.TipDialog/0.23.1440.819@0.23.1440.819" timestamp="1582563320248" />
+    <state x="100" y="100" width="1240" height="700" key="dock-window-1" timestamp="1582897361881">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="dock-window-1/0.23.1440.819@0.23.1440.819" timestamp="1582897361881" />
+    <state x="114" y="53" key="new project wizard" timestamp="1582725464925">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="114" y="53" key="new project wizard/0.23.1440.821@0.23.1440.821" timestamp="1582725464925" />
+    <state x="385" y="157" width="670" height="743" key="search.everywhere.popup" timestamp="1583242719287">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="157" width="670" height="743" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1583242719287" />
+    <state x="385" y="166" width="670" height="676" key="search.everywhere.popup/0.23.1440.819@0.23.1440.819" timestamp="1582555221371" />
+  </component>
+</project>

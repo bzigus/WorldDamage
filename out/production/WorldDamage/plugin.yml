@@ -1,0 +1,8 @@
+name: WorldDamage
+version: 1.0
+author: bugzigus
+main: zig.us.WorldDamage.WorldDamage
+Commands:
+  hi:
+    description: idk what does it do?
+    usage: /hi
