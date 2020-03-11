@@ -27,7 +27,8 @@ public class EventListener implements Listener {
                 if (event.getPlayer().hasPotionEffect(PotionEffectType.LUCK) == false) {
 
                     //Deal Damage
-                    event.getPlayer().damage(0.5);
+                    event.getPlayer().damage(0);
+                    event.getPlayer().setFireTicks(5);
 
                 }
             }
@@ -39,7 +40,7 @@ public class EventListener implements Listener {
                 if (event.getPlayer().hasPotionEffect(PotionEffectType.NIGHT_VISION) == false) {
 
                     //Deal Damage
-                    event.getPlayer().damage(0.5);
+                    event.getPlayer().damage(1);
 
                 }
             }

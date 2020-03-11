@@ -36,7 +36,7 @@
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="worlddamage" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -126,23 +126,24 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1582898112401" />
-    <state x="208" y="0" width="1024" height="819" key="SettingsEditor" timestamp="1582913035559">
+    <state x="208" y="0" width="1024" height="819" key="SettingsEditor" timestamp="1583941135950">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="208" y="0" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1582913035559" />
+    <state x="208" y="0" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1583941135950" />
     <state x="208" y="23" width="1024" height="819" key="SettingsEditor/0.23.1440.819@0.23.1440.819" timestamp="1582561775790" />
-    <state x="376" y="268" key="com.intellij.ide.util.TipDialog" timestamp="1583623007703">
+    <state x="376" y="268" key="com.intellij.ide.util.TipDialog" timestamp="1583938014062">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="376" y="268" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1583623007703" />
+    <state x="376" y="268" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1583938014062" />
     <state x="376" y="267" key="com.intellij.ide.util.TipDialog/0.23.1440.819@0.23.1440.819" timestamp="1582563320248" />
     <state x="100" y="100" width="1240" height="700" key="dock-window-1" timestamp="1582897361881">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
     <state x="100" y="100" width="1240" height="700" key="dock-window-1/0.23.1440.819@0.23.1440.819" timestamp="1582897361881" />
-    <state x="114" y="53" key="new project wizard" timestamp="1582725464925">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state x="114" y="33" key="new project wizard" timestamp="1583940980195">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="114" y="33" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1583940980195" />
     <state x="114" y="53" key="new project wizard/0.23.1440.821@0.23.1440.821" timestamp="1582725464925" />
     <state x="385" y="157" width="670" height="743" key="search.everywhere.popup" timestamp="1583242719287">
       <screen x="0" y="0" width="1440" height="900" />
