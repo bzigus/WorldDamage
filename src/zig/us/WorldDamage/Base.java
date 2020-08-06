@@ -16,7 +16,7 @@ public class Base implements CommandExecutor {
     @Override
     public boolean onCommand(CommandSender sender, Command command, String alias, String[] args) {
 
-        if (alias.equalsIgnoreCase("WorldDamage")) {
+        if (alias.equalsIgnoreCase("wd")) {
 
             if (args.length == 0) {
 
