@@ -16,10 +16,6 @@ import java.util.Timer;
 
 public class EventListener implements Listener {
 
-
-
-    public void test (InventoryClickEvent)
-
     @EventHandler
 
     // if changed to
@@ -29,7 +25,6 @@ public class EventListener implements Listener {
 
     }
 
-    Timer stime = Timer tim
 
     @EventHandler
 
